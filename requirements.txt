@@ -1,0 +1,5 @@
+ultralytics>=8.3.0
+opencv-python
+torch
+ torchvision
+# Add any other dependencies you used in your environment

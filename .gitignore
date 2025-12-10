@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+models/*.pt
+*.zip
+*.tar.gz
+.env
+.vscode/
+.DS_Store
